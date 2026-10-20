@@ -1,0 +1,11 @@
+{
+  "name": "linkedin-opportunity-scout",
+  "owner": { "name": "Vijay Mishra" },
+  "plugins": [
+    {
+      "name": "linkedin-opportunity-scout",
+      "source": "./",
+      "description": "Reads your own LinkedIn profile, finds posts where someone needs what you offer, scores the fit, drafts a friendly proposal comment, and posts only after your approval."
+    }
+  ]
+}
