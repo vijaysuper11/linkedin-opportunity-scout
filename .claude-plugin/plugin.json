@@ -1,0 +1,9 @@
+{
+  "name": "linkedin-opportunity-scout",
+  "version": "0.1.0",
+  "description": "Reads your own LinkedIn profile, finds posts where someone needs what you offer, scores the fit, drafts a short friendly proposal comment, and posts it only after your approval. Works for any profession.",
+  "author": { "name": "Vijay Mishra" },
+  "license": "MIT",
+  "keywords": ["linkedin", "freelance", "profile-based", "leads", "proposals", "draft-and-approve"],
+  "skills": "./skills"
+}
